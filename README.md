@@ -9,7 +9,7 @@
 <h3 align="center">🛠️ Tools I use</h3>
 
 <p align="center">
-  <img src="assets/claude-icon.svg" alt="Claude"><img src="https://skillicons.dev/icons?i=ts,js,nodejs,astro,html,css,python,java,firebase,git,vscode" alt="TypeScript, JavaScript, Node.js, Astro, HTML, CSS, Python, Java, Firebase, Git, VS Code">
+  <img src="assets/tools.svg" alt="Claude, TypeScript, JavaScript, Node.js, Astro, HTML, CSS, Python, Java, Firebase, Git, VS Code">
 </p>
 
 <h3 align="center">🐍 My contributions, eaten daily</h3>
