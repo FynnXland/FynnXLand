@@ -12,12 +12,12 @@
   <img src="assets/tools.svg" alt="Claude, TypeScript, JavaScript, Node.js, Astro, HTML, CSS, Python, Java, Firebase, Git, VS Code">
 </p>
 
-<h3 align="center">🐍 My contributions, eaten daily (it grows with every one)</h3>
+<h3 align="center">🐍 My contributions, hunted by a snake (new route every day)</h3>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FynnXland/FynnXLand/refs/heads/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FynnXland/FynnXLand/refs/heads/output/github-snake.svg">
-    <img alt="A snake eating my GitHub contribution graph, growing with every contribution" src="https://raw.githubusercontent.com/FynnXland/FynnXLand/refs/heads/output/github-snake.svg">
+    <img alt="A snake playing Snake on my contribution graph: it hunts the green days and grows on the strong ones" src="https://raw.githubusercontent.com/FynnXland/FynnXLand/refs/heads/output/github-snake.svg">
   </picture>
 </p>
